@@ -1,3 +1,3 @@
 # kaggle-digits
 
-kaggle-digits is a sandbox for scilearn implementation of the Kaggle's digits competition
+kaggle-digits is a sandbox for scilearn implementations of the Kaggle's digits competition
